@@ -47,7 +47,7 @@ div img{
     text-align: center;
 }
 .content{
-    gap:40px
+    gap:40px;
     display:flex;
 }
 
